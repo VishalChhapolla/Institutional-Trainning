@@ -12,3 +12,11 @@ During my institutional training, I had the opportunity to strengthen both my te
 
 interacted with fellow students by participating in group discussions, team projects, coding sessions, and technical presentations. These interactions helped me improve my communication, teamwork, and collaboration skills while learning from different perspectives.
 We discussed career options such as Software Developer, Web Developer, Full-Stack Developer, Data Analyst, Cybersecurity Analyst, Cloud Engineer, AI/ML Engineer, Database Administrator, System Administrator, and opportunities in higher education, research, and entrepreneurship.we were introduced to GitHub, a widely used platform for version control and collaborative software development
+
+
+DAY-2
+Introduction to BASH and linux Command line Essentials 
+1.Shell and BASH
+3.File System Structure
+A file system structure is the way an operating system organizes, stores, and manages files and directories (folders) on a storage device such as a hard disk or SSD
+
